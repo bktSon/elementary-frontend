@@ -1,0 +1,7 @@
+{
+  "directory": "plugin",
+  "interactive": true,
+  "color": true,
+  "save": true,
+  "ignoredDependencies": []
+}
